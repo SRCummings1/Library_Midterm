@@ -1,0 +1,11 @@
+C:\Users\baxte\source\repos\Library_Terminal_Midterm\Library_Terminal_Midterm\bin\Debug\netcoreapp3.1\Library_Terminal_Midterm.exe
+C:\Users\baxte\source\repos\Library_Terminal_Midterm\Library_Terminal_Midterm\bin\Debug\netcoreapp3.1\Library_Terminal_Midterm.deps.json
+C:\Users\baxte\source\repos\Library_Terminal_Midterm\Library_Terminal_Midterm\bin\Debug\netcoreapp3.1\Library_Terminal_Midterm.runtimeconfig.json
+C:\Users\baxte\source\repos\Library_Terminal_Midterm\Library_Terminal_Midterm\bin\Debug\netcoreapp3.1\Library_Terminal_Midterm.runtimeconfig.dev.json
+C:\Users\baxte\source\repos\Library_Terminal_Midterm\Library_Terminal_Midterm\bin\Debug\netcoreapp3.1\Library_Terminal_Midterm.dll
+C:\Users\baxte\source\repos\Library_Terminal_Midterm\Library_Terminal_Midterm\bin\Debug\netcoreapp3.1\Library_Terminal_Midterm.pdb
+C:\Users\baxte\source\repos\Library_Terminal_Midterm\Library_Terminal_Midterm\obj\Debug\netcoreapp3.1\Library_Terminal_Midterm.csprojAssemblyReference.cache
+C:\Users\baxte\source\repos\Library_Terminal_Midterm\Library_Terminal_Midterm\obj\Debug\netcoreapp3.1\Library_Terminal_Midterm.AssemblyInfoInputs.cache
+C:\Users\baxte\source\repos\Library_Terminal_Midterm\Library_Terminal_Midterm\obj\Debug\netcoreapp3.1\Library_Terminal_Midterm.AssemblyInfo.cs
+C:\Users\baxte\source\repos\Library_Terminal_Midterm\Library_Terminal_Midterm\obj\Debug\netcoreapp3.1\Library_Terminal_Midterm.dll
+C:\Users\baxte\source\repos\Library_Terminal_Midterm\Library_Terminal_Midterm\obj\Debug\netcoreapp3.1\Library_Terminal_Midterm.pdb
