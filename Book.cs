@@ -11,7 +11,19 @@ namespace Library_Terminal_Midterm
         {
             new Book("The Hobbit", "J.R.R. Tolkien", "Fantasy"),
             new Book("Fellowship of the Ring","J.R.R. Tolkien", "Fantasy"),
-            new Book("The Two Towers","J.R.R. Tolkien", "Fantasy" )
+            new Book("The Two Towers","J.R.R. Tolkien", "Fantasy" ),
+            new Book("Murder on the Orient Express","Agatha Cristy", "Mystery" ),
+            new Book("Foundation","Isaac Asimov", "Sci-Fi" ),
+            new Book("Born to Run","Michael Pollen", "Non-Fiction" ),
+            new Book("Return of the Kind","J.R.R. Tolkien", "Fantasy" ),
+            new Book("The Stand","Steven King", "Fantasy" ),
+            new Book("Goosebumps","R.L. Stine", "Young Adult" ),
+            new Book("To Kill a Mockingbird","Harper Lee", "Fiction" ),
+            new Book("The Great Gatsby","F. Scott Fitzegerald", "Fiction" ),
+            new Book("War and Peace","Leo Tolstoy", "Fiction", false ),
+            new Book("The Road", "Phillip Myier", "Fiction", false),
+            new Book("The Call of the Wild", "Jack London", "Fiction")
+       
         };     
         public string Title { get; set; }
         public string Author { get; set; }
@@ -28,8 +40,9 @@ namespace Library_Terminal_Midterm
             Title = title;
             Author = author;
             Genre = genre;
-            Status = status;
+            Status = true;
+
         }
-    
+
     }
 }
